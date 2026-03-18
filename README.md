@@ -18,3 +18,5 @@ Formulario con validación usando JavaScript y API nativa del navegador.
 - Validación de contraseñas
 - Mensajes de error personalizados
 - Mensaje de éxito
+
+- <img width="1919" height="1041" alt="image" src="https://github.com/user-attachments/assets/899992ee-9bbc-4dd7-b1f2-82a86c39d956" />
